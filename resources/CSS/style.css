@@ -249,7 +249,7 @@ html {
 /* Info - Desktop only */
 @media only screen and (min-width: 470px) {
   .story img {
-    width: 35%;
+    
     margin-top: 1rem;
     margin-right: 1rem;
     margin-bottom: 1rem;
