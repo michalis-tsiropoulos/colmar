@@ -122,12 +122,14 @@ html {
   width:100%;
 }
 
-.banner-container img{
+.banner-img{
   padding: 2rem 2.5rem 2rem 1.5rem;
   width: 60%;
-  height: 100%;
-}
 
+}
+.banner-img img{
+  width:100%;
+}
 
 .banner-text{
   display: flex;
@@ -135,6 +137,7 @@ html {
   flex-direction: column;
   margin-right: 2.5rem;
   color:#454545;
+  width: 40%;
 }
 
 .banner-text h3 {
